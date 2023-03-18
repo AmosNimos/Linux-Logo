@@ -36,7 +36,7 @@ Also It would be very nice if somoene had the time to convert the logo into vect
 - [linux-best.png](linux-best.png)
 - [linux_nvidea.png](linux_nvidea.png)
 - [linux.png](linux.png)
-- 
+
 # V2
 
 ![New.png](New.png)
