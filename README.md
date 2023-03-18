@@ -19,7 +19,7 @@ convert input_image.png -modulate 100,100,$((RANDOM%100)) output_image.png
 
 Also It would be very nice if somoene had the time to convert the logo into vector art.
 
-### V1
+# V1
 
 - [bnwa.png](bnwa.png)
 - [gba.png](gba.png)
@@ -37,7 +37,7 @@ Also It would be very nice if somoene had the time to convert the logo into vect
 - [linux_nvidea.png](linux_nvidea.png)
 - [linux.png](linux.png)
 - 
-### V2
+# V2
 
 ![New.png](New.png)
 ![osrules2.png](osrules2.png)
@@ -48,7 +48,7 @@ Also It would be very nice if somoene had the time to convert the logo into vect
 ![updated4.png](updated4.png)
 ![Updated.png](Updated.png)
 
-### V3 (Minimal
+# V3 (Minimal)
 ![void1.png](void1.png)
 ![void2.png](void2.png)
 
